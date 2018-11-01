@@ -1,0 +1,3 @@
+/home/jmaharja/Downloads/BST/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/jmaharja/Downloads/BST/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/jmaharja/Downloads/BST/cmake-build-debug/CMakeFiles/BST.dir

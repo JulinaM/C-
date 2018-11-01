@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/jmaharja/Downloads/BST/btree.h
+
+/home/jmaharja/Downloads/BST/main.cpp
+iostream
+-
+btree.h
+/home/jmaharja/Downloads/BST/btree.h
+string.h
+/home/jmaharja/Downloads/BST/string.h
+
+/home/jmaharja/Downloads/BST/string.h
+iostream
+-
+
