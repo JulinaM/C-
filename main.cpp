@@ -1,6 +1,8 @@
 #include <iostream>
 #include "btree.h"
 #include "string.h"
+#include "circularQueue.h"
+
 int main() {
 /*
     btree T;
@@ -19,10 +21,21 @@ int main() {
     c[1] = 'b';
 
     string string2(c);
-    std::cout << string2.length() << std::endl;
-    std::cout << string2.capacity() << std::endl;
+//    std::cout << string2.length() << std::endl;
+//    std::cout << string2.capacity() << std::endl;
     string2+string1;
-    std::cout << string2.capacity() << std::endl;
+//    std::cout << string2.capacity() << std::endl;
+
+    string string3;
+    string3 = string2;
+    std::cout << string3.capacity() << std::endl;
+
+    circularQueue<char> circularQueue1;
+    std::cout<<circularQueue1.isEmpty()<<std::endl;
+
+
+
+
 
 
 

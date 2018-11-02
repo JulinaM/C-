@@ -6,17 +6,23 @@
 
 #IncludeRegexTransform: 
 
-/home/jmaharja/Downloads/BST/btree.h
+/Users/julinamaharjan/CLionProjects/C-/btree.h
 
-/home/jmaharja/Downloads/BST/main.cpp
+/Users/julinamaharjan/CLionProjects/C-/circularQueue.h
+iostream
+-
+
+/Users/julinamaharjan/CLionProjects/C-/main.cpp
 iostream
 -
 btree.h
-/home/jmaharja/Downloads/BST/btree.h
+/Users/julinamaharjan/CLionProjects/C-/btree.h
 string.h
-/home/jmaharja/Downloads/BST/string.h
+/Users/julinamaharjan/CLionProjects/C-/string.h
+circularQueue.h
+/Users/julinamaharjan/CLionProjects/C-/circularQueue.h
 
-/home/jmaharja/Downloads/BST/string.h
+/Users/julinamaharjan/CLionProjects/C-/string.h
 iostream
 -
 

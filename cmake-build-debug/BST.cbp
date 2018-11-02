@@ -8,92 +8,89 @@
 		<Option virtualFolders="CMake Files\;"/>
 		<Build>
 			<Target title="all">
-				<Option working_dir="/home/jmaharja/Downloads/BST/cmake-build-debug"/>
+				<Option working_dir="/Users/julinamaharjan/CLionProjects/C-/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j12 -f &quot;/home/jmaharja/Downloads/BST/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
-					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/jmaharja/Downloads/BST/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j12 -f &quot;/home/jmaharja/Downloads/BST/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j12 -f &quot;/home/jmaharja/Downloads/BST/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/julinamaharjan/CLionProjects/C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/julinamaharjan/CLionProjects/C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/julinamaharjan/CLionProjects/C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/julinamaharjan/CLionProjects/C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="rebuild_cache">
-				<Option working_dir="/home/jmaharja/Downloads/BST/cmake-build-debug"/>
+				<Option working_dir="/Users/julinamaharjan/CLionProjects/C-/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j12 -f &quot;/home/jmaharja/Downloads/BST/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
-					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/jmaharja/Downloads/BST/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j12 -f &quot;/home/jmaharja/Downloads/BST/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j12 -f &quot;/home/jmaharja/Downloads/BST/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/julinamaharjan/CLionProjects/C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/julinamaharjan/CLionProjects/C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/julinamaharjan/CLionProjects/C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/julinamaharjan/CLionProjects/C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="edit_cache">
-				<Option working_dir="/home/jmaharja/Downloads/BST/cmake-build-debug"/>
+				<Option working_dir="/Users/julinamaharjan/CLionProjects/C-/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j12 -f &quot;/home/jmaharja/Downloads/BST/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
-					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/jmaharja/Downloads/BST/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j12 -f &quot;/home/jmaharja/Downloads/BST/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j12 -f &quot;/home/jmaharja/Downloads/BST/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/julinamaharjan/CLionProjects/C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/julinamaharjan/CLionProjects/C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/julinamaharjan/CLionProjects/C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/julinamaharjan/CLionProjects/C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="BST">
-				<Option output="/home/jmaharja/Downloads/BST/cmake-build-debug/BST" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/home/jmaharja/Downloads/BST/cmake-build-debug"/>
+				<Option output="/Users/julinamaharjan/CLionProjects/C-/cmake-build-debug/BST" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/julinamaharjan/CLionProjects/C-/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
 				<Compiler>
-					<Add directory="/usr/include/c++/7"/>
-					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
-					<Add directory="/usr/include/c++/7/backward"/>
-					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
-					<Add directory="/usr/local/include"/>
-					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
-					<Add directory="/usr/include/x86_64-linux-gnu"/>
-					<Add directory="/usr/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include/c++/v1"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/10.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j12 -f &quot;/home/jmaharja/Downloads/BST/cmake-build-debug/Makefile&quot;  VERBOSE=1 BST"/>
-					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/jmaharja/Downloads/BST/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j12 -f &quot;/home/jmaharja/Downloads/BST/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j12 -f &quot;/home/jmaharja/Downloads/BST/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/julinamaharjan/CLionProjects/C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 BST"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/julinamaharjan/CLionProjects/C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/julinamaharjan/CLionProjects/C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/julinamaharjan/CLionProjects/C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="BST/fast">
-				<Option output="/home/jmaharja/Downloads/BST/cmake-build-debug/BST" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/home/jmaharja/Downloads/BST/cmake-build-debug"/>
+				<Option output="/Users/julinamaharjan/CLionProjects/C-/cmake-build-debug/BST" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/julinamaharjan/CLionProjects/C-/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
 				<Compiler>
-					<Add directory="/usr/include/c++/7"/>
-					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
-					<Add directory="/usr/include/c++/7/backward"/>
-					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
-					<Add directory="/usr/local/include"/>
-					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
-					<Add directory="/usr/include/x86_64-linux-gnu"/>
-					<Add directory="/usr/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include/c++/v1"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/10.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j12 -f &quot;/home/jmaharja/Downloads/BST/cmake-build-debug/Makefile&quot;  VERBOSE=1 BST/fast"/>
-					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/jmaharja/Downloads/BST/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j12 -f &quot;/home/jmaharja/Downloads/BST/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j12 -f &quot;/home/jmaharja/Downloads/BST/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/julinamaharjan/CLionProjects/C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 BST/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/julinamaharjan/CLionProjects/C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/julinamaharjan/CLionProjects/C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/julinamaharjan/CLionProjects/C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/home/jmaharja/Downloads/BST/btree.h">
+		<Unit filename="/Users/julinamaharjan/CLionProjects/C-/btree.h">
 			<Option target="BST"/>
 		</Unit>
-		<Unit filename="/home/jmaharja/Downloads/BST/main.cpp">
+		<Unit filename="/Users/julinamaharjan/CLionProjects/C-/circularQueue.h">
 			<Option target="BST"/>
 		</Unit>
-		<Unit filename="/home/jmaharja/Downloads/BST/string.h">
+		<Unit filename="/Users/julinamaharjan/CLionProjects/C-/main.cpp">
 			<Option target="BST"/>
 		</Unit>
-		<Unit filename="/home/jmaharja/Downloads/BST/CMakeLists.txt">
+		<Unit filename="/Users/julinamaharjan/CLionProjects/C-/string.h">
+			<Option target="BST"/>
+		</Unit>
+		<Unit filename="/Users/julinamaharjan/CLionProjects/C-/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>
 	</Project>

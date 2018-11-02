@@ -3,4 +3,4 @@ project(BST)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(BST main.cpp btree.h string.h)
+add_executable(BST main.cpp btree.h string.h circularQueue.h)
